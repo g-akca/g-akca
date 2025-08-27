@@ -2,11 +2,13 @@
 
 <h2 align="center">About Me:</h2>
 <div>
-  <img src="https://avatars.githubusercontent.com/u/169614034?s=400&u=a3e05ac524b163bc42468b0ee7d6914b9ed5f11f&v=4" alt="Kanade" width="230" height="230" align="right"/>
+  <img src="https://avatars.githubusercontent.com/u/169614034?s=400&u=a3e05ac524b163bc42468b0ee7d6914b9ed5f11f&v=4" alt="Kanade" width="220" height="220" align="right"/>
   <ul>
-    <li>🔭 I’m currently studying computer engineering at the Istanbul Technical University</li>
-    <li>👯 I’ve worked on various projects, tackling many programming topics (always open for more!)</li>
-    <li>🌱 I’m very eager to acquire new coding skills, so I self-learn and practice on a lot of coding websites</li>
+    <br><br>
+    <li>🔭 I’m currently studying Computer Engineering at the Istanbul Technical University</li>
+    <li>🍵 My hobbies include coding, analytics, archiving, watching anime, and playing games</li>
+    <li>📃 I’ve worked on various projects, tackling many programming topics (always open for more!)</li>
+    <li>💻 I’m very eager to acquire new coding skills, so I self-learn and practice on <b>a lot</b> of coding websites such as HackerRank and LeetCode</li>
   </ul>
 </div>
 <br clear="all">
