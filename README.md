@@ -34,19 +34,59 @@
   <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio""/>
 </p>
 
+<h2 align="center">Repositories</h2>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <h3 align="center">Coding Practice</h3>
+      <ul>
+        <li><a href="https://github.com/g-akca/hackerrank" target="_blank">HackerRank Challenges</a></li>
+        <li><a href="https://github.com/g-akca/leetcode" target="_blank">LeetCode Challenges</a></li>
+        <li><a href="https://github.com/g-akca/exercism" target="_blank">Exercism Exercises</a></li>
+        <li><a href="https://github.com/g-akca/codingame" target="_blank">CodinGame Challenges</a></li>
+        <li><a href="https://github.com/g-akca/codewars" target="_blank">Codewars Challenges</a></li>
+      </ul>
+      <br>
+    </td>
+    <td valign="top">
+      <h3 align="center">Odin Projects</h3>
+      <ul>
+        <li><a href="https://github.com/g-akca/odin-recipes" target="_blank">Odin Recipes</a></li>
+        <li><a href="https://github.com/g-akca/odin-landing-page" target="_blank">Odin Landing Page</a></li>
+      </ul>
+      <br>
+    </td>
+    <td valign="top">
+      <h3 align="center">Frontend Mentor Projects</h3>
+      <ul>
+        <li><a href="https://github.com/g-akca/qr-code-component" target="_blank">QR Code Component</a></li>
+        <li><a href="https://github.com/g-akca/blog-preview-card" target="_blank">Blog Preview Card</a></li>
+      </ul>
+      <br>
+    </td>
+    <td valign="top">
+      <h3 align="center">Other</h3>
+      <ul>
+        <li><a href="https://github.com/g-akca/freecodecamp" target="_blank">freeCodeCamp Projects</a></li>
+        <li><a href="https://github.com/g-akca/mygroceries" target="_blank">MyGroceries</a></li>
+        <li><a href="https://github.com/g-akca/euroleague-wiki" target="_blank">Euroleague Wiki</a></li>
+      </ul>
+      <br>
+    </td>
+  </tr>
+</table>
+
 <h2 align="center">My Stats</h2>
-<p align="center">
-  <table align="center">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=g-akca&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-akca&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-      </td>
-    </tr>
-  </table>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=g-akca&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-akca&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+    </td>
+  </tr>
+</table>
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=g-akca&style=flat-square&color=blue"/>
