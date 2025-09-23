@@ -61,6 +61,7 @@
       <ul>
         <li><a href="https://github.com/g-akca/qr-code-component" target="_blank">QR Code Component</a></li>
         <li><a href="https://github.com/g-akca/blog-preview-card" target="_blank">Blog Preview Card</a></li>
+        <li><a href="https://github.com/g-akca/social-links-profile" target="_blank">Social Links Profile</a></li>
       </ul>
       <br>
     </td>
@@ -70,6 +71,7 @@
         <li><a href="https://github.com/g-akca/freecodecamp" target="_blank">freeCodeCamp Projects</a></li>
         <li><a href="https://github.com/g-akca/mygroceries" target="_blank">MyGroceries</a></li>
         <li><a href="https://github.com/g-akca/euroleague-wiki" target="_blank">Euroleague Wiki</a></li>
+        <li><a href="https://github.com/g-akca/euroleague-wiki" target="_blank">SAP ABAP Projects</a></li>
       </ul>
       <br>
     </td>
