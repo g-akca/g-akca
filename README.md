@@ -62,6 +62,7 @@
         <li><a href="https://github.com/g-akca/qr-code-component" target="_blank">QR Code Component</a></li>
         <li><a href="https://github.com/g-akca/blog-preview-card" target="_blank">Blog Preview Card</a></li>
         <li><a href="https://github.com/g-akca/social-links-profile" target="_blank">Social Links Profile</a></li>
+        <li><a href="https://github.com/g-akca/recipe-page" target="_blank">Recipe Page</a></li>
       </ul>
       <br>
     </td>
