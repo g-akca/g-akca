@@ -63,6 +63,7 @@
         <li><a href="https://github.com/g-akca/blog-preview-card" target="_blank">Blog Preview Card</a></li>
         <li><a href="https://github.com/g-akca/social-links-profile" target="_blank">Social Links Profile</a></li>
         <li><a href="https://github.com/g-akca/recipe-page" target="_blank">Recipe Page</a></li>
+        <li><a href="https://github.com/g-akca/product-preview-card" target="_blank">Product Preview Card</a></li>
       </ul>
       <br>
     </td>
