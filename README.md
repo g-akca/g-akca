@@ -8,7 +8,7 @@
     <li>🔭 I’m currently studying Computer Engineering at the Istanbul Technical University</li>
     <li>🍵 My hobbies include coding, analytics, archiving, watching anime, and playing games</li>
     <li>📃 I’ve worked on various projects so far, tackling many programming topics (always open for more!)</li>
-    <li>💻 I’m very eager to get better at algorithmic thinking and also become a full-stack developer, so I self-learn and practice on <b>a lot</b> of coding websites such as HackerRank, LeetCode, freeCodeCamp</li>
+    <li>💻 I’m very eager to become a full-stack developer, so I self-learn and practice on <b>a lot</b> of coding websites such as HackerRank, freeCodeCamp, Frontend Mentor</li>
   </ul>
 </div>
 <br clear="all">
