@@ -21,7 +21,7 @@
 
 <h3 align="center">Front-End Development:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap"/>
 </p>
 
 <h3 align="center">Back-End Development:</h3>
