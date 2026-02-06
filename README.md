@@ -53,6 +53,7 @@
       <ul>
         <li><a href="https://github.com/g-akca/odin-recipes" target="_blank">Odin Recipes</a></li>
         <li><a href="https://github.com/g-akca/odin-landing-page" target="_blank">Odin Landing Page</a></li>
+        <li><a href="https://github.com/g-akca/odin-rock-paper-scissors" target="_blank">Odin Rock Paper Scissors</a></li>
       </ul>
       <br>
     </td>
