@@ -43,7 +43,6 @@
         <li><a href="https://github.com/g-akca/hackerrank" target="_blank">HackerRank Challenges</a></li>
         <li><a href="https://github.com/g-akca/leetcode" target="_blank">LeetCode Challenges</a></li>
         <li><a href="https://github.com/g-akca/exercism" target="_blank">Exercism Exercises</a></li>
-        <li><a href="https://github.com/g-akca/codingame" target="_blank">CodinGame Challenges</a></li>
         <li><a href="https://github.com/g-akca/codewars" target="_blank">Codewars Challenges</a></li>
       </ul>
       <br>
@@ -54,6 +53,7 @@
         <li><a href="https://github.com/g-akca/odin-recipes" target="_blank">Odin Recipes</a></li>
         <li><a href="https://github.com/g-akca/odin-landing-page" target="_blank">Odin Landing Page</a></li>
         <li><a href="https://github.com/g-akca/odin-rock-paper-scissors" target="_blank">Odin Rock Paper Scissors</a></li>
+        <li><a href="https://github.com/g-akca/odin-etch-a-sketch" target="_blank">Odin Etch-a-Sketch</a></li>
       </ul>
       <br>
     </td>
@@ -74,11 +74,10 @@
     <td valign="top">
       <h3 align="center">Other</h3>
       <ul>
-        <li><a href="https://github.com/g-akca/freecodecamp" target="_blank">freeCodeCamp Projects</a></li>
         <li><a href="https://github.com/g-akca/mygroceries" target="_blank">MyGroceries</a></li>
         <li><a href="https://github.com/Soft-Engin/enginar_frontend" target="_blank">ENGINAR Frontend</a></li>
         <li><a href="https://github.com/g-akca/euroleague-wiki" target="_blank">Euroleague Wiki</a></li>
-        <li><a href="https://github.com/g-akca/euroleague-wiki" target="_blank">SAP ABAP Projects</a></li>
+        <li><a href="https://github.com/g-akca/freecodecamp" target="_blank">freeCodeCamp Projects</a></li>
       </ul>
       <br>
     </td>
