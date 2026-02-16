@@ -69,6 +69,7 @@
         <li><a href="https://github.com/g-akca/four-card-feature-section" target="_blank">Four Card Feature Section</a></li>
         <li><a href="https://github.com/g-akca/testimonials-grid-section" target="_blank">Testimonials Grid Section</a></li>
         <li><a href="https://github.com/g-akca/meet-landing-page" target="_blank">Meet Landing Page</a></li>
+        <li><a href="https://github.com/g-akca/article-preview-component" target="_blank">Article Preview Component</a></li>
       </ul>
       <br>
     </td>
