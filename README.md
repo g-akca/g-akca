@@ -37,17 +37,7 @@
 <h2 align="center">Repositories</h2>
 <table align="center">
   <tr>
-    <td valign="top">
-      <h3 align="center">Coding Practice</h3>
-      <ul>
-        <li><a href="https://github.com/g-akca/hackerrank" target="_blank">HackerRank Challenges</a></li>
-        <li><a href="https://github.com/g-akca/leetcode" target="_blank">LeetCode Challenges</a></li>
-        <li><a href="https://github.com/g-akca/exercism" target="_blank">Exercism Exercises</a></li>
-        <li><a href="https://github.com/g-akca/codewars" target="_blank">Codewars Challenges</a></li>
-      </ul>
-      <br>
-    </td>
-    <td valign="top">
+    <td valign="top" width="25%">
       <h3 align="center">Odin Projects</h3>
       <ul>
         <li><a href="https://github.com/g-akca/odin-recipes" target="_blank">Odin Recipes</a></li>
@@ -56,34 +46,45 @@
         <li><a href="https://github.com/g-akca/odin-etch-a-sketch" target="_blank">Odin Etch-a-Sketch</a></li>
         <li><a href="https://github.com/g-akca/odin-calculator" target="_blank">Odin Calculator</a></li>
       </ul>
-      <br>
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
       <h3 align="center">Frontend Mentor Projects</h3>
-      <ul>
-        <li><a href="https://github.com/g-akca/qr-code-component" target="_blank">QR Code Component</a></li>
-        <li><a href="https://github.com/g-akca/blog-preview-card" target="_blank">Blog Preview Card</a></li>
-        <li><a href="https://github.com/g-akca/social-links-profile" target="_blank">Social Links Profile</a></li>
-        <li><a href="https://github.com/g-akca/recipe-page" target="_blank">Recipe Page</a></li>
-        <li><a href="https://github.com/g-akca/product-preview-card" target="_blank">Product Preview Card</a></li>
-        <li><a href="https://github.com/g-akca/four-card-feature-section" target="_blank">Four Card Feature Section</a></li>
-        <li><a href="https://github.com/g-akca/testimonials-grid-section" target="_blank">Testimonials Grid Section</a></li>
-        <li><a href="https://github.com/g-akca/meet-landing-page" target="_blank">Meet Landing Page</a></li>
-        <li><a href="https://github.com/g-akca/article-preview-component" target="_blank">Article Preview Component</a></li>
-        <li><a href="https://github.com/g-akca/newsletter-signup-form" target="_blank">Newsletter Sign-up Form</a></li>
-        <li><a href="https://github.com/g-akca/time-tracking-dashboard" target="_blank">Time Tracking Dashboard</a></li>
-      </ul>
-      <br>
+      <table width="100%">
+        <tr>
+          <td valign="top">
+            <ul>
+              <li><a href="https://github.com/g-akca/qr-code-component" target="_blank">QR Code Component</a></li>
+              <li><a href="https://github.com/g-akca/blog-preview-card" target="_blank">Blog Preview Card</a></li>
+              <li><a href="https://github.com/g-akca/social-links-profile" target="_blank">Social Links Profile</a></li>
+              <li><a href="https://github.com/g-akca/recipe-page" target="_blank">Recipe Page</a></li>
+              <li><a href="https://github.com/g-akca/product-preview-card" target="_blank">Product Preview Card</a></li>
+              <li><a href="https://github.com/g-akca/four-card-feature-section" target="_blank">Four Card Feature Section</a></li>
+            </ul>
+          </td>
+          <td valign="top">
+            <ul>
+              <li><a href="https://github.com/g-akca/testimonials-grid-section" target="_blank">Testimonials Grid Section</a></li>
+              <li><a href="https://github.com/g-akca/meet-landing-page" target="_blank">Meet Landing Page</a></li>
+              <li><a href="https://github.com/g-akca/article-preview-component" target="_blank">Article Preview Component</a></li>
+              <li><a href="https://github.com/g-akca/newsletter-signup-form" target="_blank">Newsletter Sign-up Form</a></li>
+              <li><a href="https://github.com/g-akca/time-tracking-dashboard" target="_blank">Time Tracking Dashboard</a></li>
+            </ul>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td valign="top">
+    <td valign="top" width="25%">
       <h3 align="center">Other</h3>
       <ul>
         <li><a href="https://github.com/g-akca/mygroceries" target="_blank">MyGroceries</a></li>
         <li><a href="https://github.com/Soft-Engin/enginar_frontend" target="_blank">ENGINAR Frontend</a></li>
         <li><a href="https://github.com/g-akca/euroleague-wiki" target="_blank">Euroleague Wiki</a></li>
         <li><a href="https://github.com/g-akca/freecodecamp" target="_blank">freeCodeCamp Projects</a></li>
+        <li><a href="https://github.com/g-akca/hackerrank" target="_blank">HackerRank Challenges</a></li>
+        <li><a href="https://github.com/g-akca/leetcode" target="_blank">LeetCode Challenges</a></li>
+        <li><a href="https://github.com/g-akca/exercism" target="_blank">Exercism Exercises</a></li>
+        <li><a href="https://github.com/g-akca/codewars" target="_blank">Codewars Challenges</a></li>
       </ul>
-      <br>
     </td>
   </tr>
 </table>
