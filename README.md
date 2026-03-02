@@ -40,13 +40,13 @@
     <td valign="top" width="25%">
       <h3 align="center">Odin Projects</h3>
       <ul>
-        <li><a href="https://github.com/g-akca/odin-recipes" target="_blank">Odin Recipes</a></li>
-        <li><a href="https://github.com/g-akca/odin-landing-page" target="_blank">Odin Landing Page</a></li>
-        <li><a href="https://github.com/g-akca/odin-rock-paper-scissors" target="_blank">Odin Rock Paper Scissors</a></li>
-        <li><a href="https://github.com/g-akca/odin-etch-a-sketch" target="_blank">Odin Etch-a-Sketch</a></li>
-        <li><a href="https://github.com/g-akca/odin-calculator" target="_blank">Odin Calculator</a></li>
-        <li><a href="https://github.com/g-akca/odin-signup-form" target="_blank">Odin Sign-up Form</a></li>
-        <li><a href="https://github.com/g-akca/odin-admin-dashboard" target="_blank">Odin Admin Dashboard</a></li>
+        <li><a href="https://github.com/g-akca/odin-recipes" target="_blank">Recipes</a></li>
+        <li><a href="https://github.com/g-akca/odin-landing-page" target="_blank">Landing Page</a></li>
+        <li><a href="https://github.com/g-akca/odin-rock-paper-scissors" target="_blank">Rock Paper Scissors</a></li>
+        <li><a href="https://github.com/g-akca/odin-etch-a-sketch" target="_blank">Etch-a-Sketch</a></li>
+        <li><a href="https://github.com/g-akca/odin-calculator" target="_blank">Calculator</a></li>
+        <li><a href="https://github.com/g-akca/odin-signup-form" target="_blank">Sign-up Form</a></li>
+        <li><a href="https://github.com/g-akca/odin-admin-dashboard" target="_blank">Admin Dashboard</a></li>
       </ul>
     </td>
     <td valign="top" width="50%">
