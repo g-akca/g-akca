@@ -8,7 +8,7 @@
     <li>🔭 I’m a Software Engineer specializing in full-stack web development, and I'm currently studying Computer Engineering at the Istanbul Technical University</li>
     <li>🍵 My hobbies include coding, analytics, archiving, watching anime, and playing games</li>
     <li>📃 I’ve worked on various projects so far, tackling many programming topics (always open for more!)</li>
-    <li>💻 I’m always eager to hone my skills as a full-stack developer, so I actively self-learn and practice on platforms like freeCodeCamp, Frontend Mentor, HackerRank and more</li>
+    <li>💻 I’m always eager to hone my skills as a full-stack developer, so I actively self-learn and practice on platforms like freeCodeCamp, Frontend Mentor, Coursera and more</li>
   </ul>
 </div>
 <br clear="all">
@@ -37,7 +37,7 @@
 <h2 align="center">Repositories</h2>
 <table align="center">
   <tr>
-    <td valign="top" width="25%">
+    <td valign="top" width="30%">
       <h3 align="center">Odin Projects</h3>
       <ul>
         <li><a href="https://github.com/g-akca/odin-recipes" target="_blank">Recipes</a></li>
@@ -71,16 +71,17 @@
               <li><a href="https://github.com/g-akca/newsletter-signup-form" target="_blank">Newsletter Sign-up Form</a></li>
               <li><a href="https://github.com/g-akca/time-tracking-dashboard" target="_blank">Time Tracking Dashboard</a></li>
               <li><a href="https://github.com/g-akca/tip-calculator-app" target="_blank">Tip Calculator App</a></li>
+              <li><a href="https://github.com/g-akca/password-generator-app" target="_blank">Password Generator App</a></li>
             </ul>
           </td>
         </tr>
       </table>
     </td>
-    <td valign="top" width="25%">
+    <td valign="top" width="20%">
       <h3 align="center">Other</h3>
       <ul>
         <li><a href="https://github.com/g-akca/mygroceries" target="_blank">MyGroceries</a></li>
-        <li><a href="https://github.com/Soft-Engin/enginar_frontend" target="_blank">ENGINAR Frontend</a></li>
+        <li><a href="https://github.com/Soft-Engin/enginar_frontend" target="_blank">ENGINAR</a></li>
         <li><a href="https://github.com/g-akca/euroleague-wiki" target="_blank">Euroleague Wiki</a></li>
         <li><a href="https://github.com/g-akca/freecodecamp" target="_blank">freeCodeCamp</a></li>
         <li><a href="https://github.com/g-akca/hackerrank" target="_blank">HackerRank</a></li>
