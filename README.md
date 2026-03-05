@@ -47,6 +47,7 @@
         <li><a href="https://github.com/g-akca/odin-calculator" target="_blank">Calculator</a></li>
         <li><a href="https://github.com/g-akca/odin-signup-form" target="_blank">Sign-up Form</a></li>
         <li><a href="https://github.com/g-akca/odin-admin-dashboard" target="_blank">Admin Dashboard</a></li>
+        <li><a href="https://github.com/g-akca/odin-library" target="_blank">Library App</a></li>
       </ul>
     </td>
     <td valign="top" width="50%">
