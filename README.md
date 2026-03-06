@@ -63,16 +63,17 @@
               <li><a href="https://github.com/g-akca/product-preview-card" target="_blank">Product Preview Card</a></li>
               <li><a href="https://github.com/g-akca/four-card-feature-section" target="_blank">Four Card Feature Section</a></li>
               <li><a href="https://github.com/g-akca/testimonials-grid-section" target="_blank">Testimonials Grid Section</a></li>
+              <li><a href="https://github.com/g-akca/meet-landing-page" target="_blank">Meet Landing Page</a></li>
             </ul>
           </td>
           <td valign="top">
             <ul>
-              <li><a href="https://github.com/g-akca/meet-landing-page" target="_blank">Meet Landing Page</a></li>
               <li><a href="https://github.com/g-akca/article-preview-component" target="_blank">Article Preview Component</a></li>
               <li><a href="https://github.com/g-akca/newsletter-signup-form" target="_blank">Newsletter Sign-up Form</a></li>
               <li><a href="https://github.com/g-akca/time-tracking-dashboard" target="_blank">Time Tracking Dashboard</a></li>
               <li><a href="https://github.com/g-akca/tip-calculator-app" target="_blank">Tip Calculator App</a></li>
               <li><a href="https://github.com/g-akca/password-generator-app" target="_blank">Password Generator App</a></li>
+              <li><a href="https://github.com/g-akca/interactive-rating-component" target="_blank">Interactive Rating Component</a></li>
             </ul>
           </td>
         </tr>
