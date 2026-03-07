@@ -56,32 +56,50 @@
       <table width="100%">
         <tr>
           <td valign="top">
-            <ul style="list-style: none; padding-left: 0;">
-              <li><a href="https://github.com/g-akca/qr-code-component" target="_blank">
-                <img alt="Static Badge" src="https://img.shields.io/badge/Newbie-QR_Code_Component-rgb(6%2C%20182%2C%20212)"/>
-              </a></li>
-              <li><a href="https://github.com/g-akca/blog-preview-card" target="_blank">Blog Preview Card</a></li>
-              <li><a href="https://github.com/g-akca/social-links-profile" target="_blank">Social Links Profile</a></li>
-              <li><a href="https://github.com/g-akca/recipe-page" target="_blank">Recipe Page</a></li>
-              <li><a href="https://github.com/g-akca/product-preview-card" target="_blank">Product Preview Card</a></li>
-              <li><a href="https://github.com/g-akca/four-card-feature-section" target="_blank">Four Card Feature Section</a></li>
-              <li><a href="https://github.com/g-akca/testimonials-grid-section" target="_blank">Testimonials Grid Section</a></li>
-              <li><a href="https://github.com/g-akca/meet-landing-page" target="_blank">Meet Landing Page</a></li>
-            </ul>
+            <p><a href="https://github.com/g-akca/qr-code-component" target="_blank">
+              <img alt="Static Badge" src="https://img.shields.io/badge/Newbie-QR_Code_Component-rgb(6%2C%20182%2C%20212)"/>
+            </a></p>
+            <p><a href="https://github.com/g-akca/blog-preview-card" target="_blank">
+              <img alt="Static Badge" src="https://img.shields.io/badge/Newbie-Blog_Preview_Card-rgb(6%2C%20182%2C%20212)"/>
+            </a></p>
+            <p><a href="https://github.com/g-akca/social-links-profile" target="_blank">
+              <img alt="Static Badge" src="https://img.shields.io/badge/Newbie-Social_Links_Profile-rgb(6%2C%20182%2C%20212)"/>
+            </a></p>
+            <p><a href="https://github.com/g-akca/recipe-page" target="_blank">
+              <img alt="Static Badge" src="https://img.shields.io/badge/Newbie-Recipe_Page-rgb(6%2C%20182%2C%20212)"/>
+            </a></p>
+            <p><a href="https://github.com/g-akca/product-preview-card" target="_blank">
+              <img alt="Static Badge" src="https://img.shields.io/badge/Newbie-Product_Preview_Card-rgb(6%2C%20182%2C%20212)"/>
+            </a></p>
+            <p><a href="https://github.com/g-akca/four-card-feature-section" target="_blank">
+              <img alt="Static Badge" src="https://img.shields.io/badge/Newbie-Four_Card_Feature_Section-rgb(6%2C%20182%2C%20212)"/>
+            </a></p>
+            <p><a href="https://github.com/g-akca/testimonials-grid-section" target="_blank">
+              <img alt="Static Badge" src="https://img.shields.io/badge/Junior-Testimonials_Grid_Section-rgb(52%2C%20211%2C%20153)">
+            </a></p>
+            <p><a href="https://github.com/g-akca/meet-landing-page" target="_blank">
+              <img alt="Static Badge" src="https://img.shields.io/badge/Newbie-Meet_Landing_Page-rgb(6%2C%20182%2C%20212)"/>
+            </a></p>
           </td>
           <td valign="top">
-            <ul>
-              <li><a href="https://github.com/g-akca/article-preview-component" target="_blank">Article Preview Component</a></li>
-              <li><a href="https://github.com/g-akca/newsletter-signup-form" target="_blank">
-                <img alt="Static Badge" src="https://img.shields.io/badge/Junior-Newsletter_Sign--up_Form-rgb(52%2C%20211%2C%20153)">
-              </a></li>
-              <li><a href="https://github.com/g-akca/time-tracking-dashboard" target="_blank">Time Tracking Dashboard</a></li>
-              <li><a href="https://github.com/g-akca/tip-calculator-app" target="_blank">Tip Calculator App</a></li>
-              <li><a href="https://github.com/g-akca/password-generator-app" target="_blank">
-                <img alt="Static Badge" src="https://img.shields.io/badge/Intermediate-Password_Generator_App-rgb(251%2C%20191%2C%2036)">
-              </a></li>
-              <li><a href="https://github.com/g-akca/interactive-rating-component" target="_blank">Interactive Rating Component</a></li>
-            </ul>
+            <p><a href="https://github.com/g-akca/article-preview-component" target="_blank">
+              <img alt="Static Badge" src="https://img.shields.io/badge/Newbie-Article_Preview_Component-rgb(6%2C%20182%2C%20212)"/>
+            </a></p>
+            <p><a href="https://github.com/g-akca/newsletter-signup-form" target="_blank">
+              <img alt="Static Badge" src="https://img.shields.io/badge/Junior-Newsletter_Sign--up_Form-rgb(52%2C%20211%2C%20153)">
+            </a></p>
+            <p><a href="https://github.com/g-akca/time-tracking-dashboard" target="_blank">
+              <img alt="Static Badge" src="https://img.shields.io/badge/Junior-Time_Tracking_Dashboard-rgb(52%2C%20211%2C%20153)">
+            </a></p>
+            <p><a href="https://github.com/g-akca/tip-calculator-app" target="_blank">
+              <img alt="Static Badge" src="https://img.shields.io/badge/Junior-Tip_Calculator_App-rgb(52%2C%20211%2C%20153)">
+            </a></p>
+            <p><a href="https://github.com/g-akca/password-generator-app" target="_blank">
+              <img alt="Static Badge" src="https://img.shields.io/badge/Intermediate-Password_Generator_App-rgb(251%2C%20191%2C%2036)">
+            </a></p>
+            <p><a href="https://github.com/g-akca/interactive-rating-component" target="_blank">
+              <img alt="Static Badge" src="https://img.shields.io/badge/Newbie-Interactive_Rating_Component-rgb(6%2C%20182%2C%20212)"/>
+            </a></p>
           </td>
         </tr>
       </table>
