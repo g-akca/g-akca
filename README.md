@@ -2,7 +2,7 @@
 
 <h2 align="center">About Me</h2>
 <div>
-  <img src="https://avatars.githubusercontent.com/u/169614034?s=400&u=a3e05ac524b163bc42468b0ee7d6914b9ed5f11f&v=4" alt="Kanade" width="220" height="220" align="right"/>
+  <img src="https://avatars.githubusercontent.com/u/169614034?s=400&u=a3e05ac524b163bc42468b0ee7d6914b9ed5f11f&v=4" alt="Kanade" width="210" height="210" align="right"/>
   <ul>
     <br><br>
     <li>🎓 I'm a Computer Engineering student at Istanbul Technical University</li>
@@ -19,19 +19,14 @@
   <img src="https://skillicons.dev/icons?i=cpp,cs,py,java,js,mysql"/>
 </p>
 
-<h3 align="center">Front-End Development:</h3>
+<h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap"/>
 </p>
 
-<h3 align="center">Back-End Development:</h3>
+<h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,flask,mysql"/>
-</p>
-
-<h3 align="center">Softwares and Tools:</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio"/>
 </p>
 
 <h2 align="center">Projects</h2>
@@ -186,6 +181,12 @@
 </p>
 
 ---
+
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=g-akca&theme=tokyo-night&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=g-akca&style=flat-square&color=blue"/>
