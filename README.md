@@ -109,6 +109,11 @@
 <a href="https://github.com/g-akca/interactive-rating-component">
 <img src="https://img.shields.io/badge/Newbie-Interactive_Rating_Component-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
 
+<br>
+
+<a href="https://github.com/g-akca/faq-accordion">
+<img src="https://img.shields.io/badge/Newbie-FAQ_Accordion-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Junior</h4>
