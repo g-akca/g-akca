@@ -13,62 +13,23 @@
 </div>
 <br clear="all">
 
-<h2 align="center">Skills</h2>
-<h3 align="center">Languages</h3>
+<h2 align="center">Tech Stack</h2>
+<p align="center"><b>Languages</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,py,java,js,mysql"/>
 </p>
 
-<h3 align="center">Frontend</h3>
+<p align="center"><b>Frontend</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap"/>
 </p>
 
-<h3 align="center">Backend</h3>
+<p align="center"><b>Backend</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,py,flask,mysql"/>
 </p>
 
 <h2 align="center">Projects</h2>
-
----
-
-<h3 align="center">The Odin Project</h3>
-
-<p align="center">
-
-<a href="https://github.com/g-akca/odin-recipes">
-<img src="https://img.shields.io/badge/Recipes-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
-
-<a href="https://github.com/g-akca/odin-landing-page">
-<img src="https://img.shields.io/badge/Landing_Page-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
-
-<a href="https://github.com/g-akca/odin-rock-paper-scissors">
-<img src="https://img.shields.io/badge/Rock_Paper_Scissors-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
-
-<br>
-
-<a href="https://github.com/g-akca/odin-etch-a-sketch">
-<img src="https://img.shields.io/badge/Etch_A_Sketch-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
-
-<a href="https://github.com/g-akca/odin-calculator">
-<img src="https://img.shields.io/badge/Calculator-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
-
-<a href="https://github.com/g-akca/odin-signup-form">
-<img src="https://img.shields.io/badge/Signup_Form-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
-
-<br>
-
-<a href="https://github.com/g-akca/odin-admin-dashboard">
-<img src="https://img.shields.io/badge/Admin_Dashboard-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
-
-<a href="https://github.com/g-akca/odin-library">
-<img src="https://img.shields.io/badge/Library_App-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
-
-<a href="https://github.com/g-akca/odin-tic-tac-toe">
-<img src="https://img.shields.io/badge/Tic_Tac_Toe-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
-
-</p>
 
 ---
 
@@ -147,6 +108,56 @@
 
 ---
 
+<h3 align="center">The Odin Project</h3>
+
+<p align="center">
+
+<a href="https://github.com/g-akca/odin-recipes">
+<img src="https://img.shields.io/badge/Recipes-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
+
+<a href="https://github.com/g-akca/odin-landing-page">
+<img src="https://img.shields.io/badge/Landing_Page-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
+
+<a href="https://github.com/g-akca/odin-rock-paper-scissors">
+<img src="https://img.shields.io/badge/Rock_Paper_Scissors-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
+
+<a href="https://github.com/g-akca/odin-etch-a-sketch">
+<img src="https://img.shields.io/badge/Etch_A_Sketch-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
+
+<a href="https://github.com/g-akca/odin-calculator">
+<img src="https://img.shields.io/badge/Calculator-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
+
+<br>
+
+<a href="https://github.com/g-akca/odin-signup-form">
+<img src="https://img.shields.io/badge/Signup_Form-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
+
+<a href="https://github.com/g-akca/odin-admin-dashboard">
+<img src="https://img.shields.io/badge/Admin_Dashboard-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
+
+<a href="https://github.com/g-akca/odin-library">
+<img src="https://img.shields.io/badge/Library_App-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
+
+<a href="https://github.com/g-akca/odin-tic-tac-toe">
+<img src="https://img.shields.io/badge/Tic_Tac_Toe-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
+
+</p>
+
+---
+
+<h3 align="center">devChallenges</h3>
+
+<h4 align="center">Beginner</h4>
+
+<p align="center">
+
+<a href="https://github.com/g-akca/dc-simple-faq">
+<img src="https://img.shields.io/badge/Beginner-Simple_FAQ-rgb(6%2C182%2C212)?logo=htmx"></a>
+
+</p>
+
+---
+
 <h3 align="center">Other Projects</h3>
 
 <p align="center">
@@ -186,8 +197,6 @@
 </p>
 
 ---
-
-<h2 align="center">Contribution Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=g-akca&theme=tokyo-night&hide_border=true"/>
