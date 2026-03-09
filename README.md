@@ -98,6 +98,9 @@
 <a href="https://github.com/g-akca/contact-form">
 <img src="https://img.shields.io/badge/Junior-Contact_Form-rgb(52%2C211%2C153)?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/g-akca/news-homepage">
+<img src="https://img.shields.io/badge/Junior-News_Homepage-rgb(52%2C211%2C153)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Intermediate</h4>
