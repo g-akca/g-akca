@@ -160,6 +160,9 @@
 <a href="https://github.com/g-akca/dc-simple-faq">
 <img src="https://img.shields.io/badge/Beginner-Simple_FAQ-rgb(6%2C182%2C212)?logo=htmx"></a>
 
+<a href="https://github.com/g-akca/dc-minimal-blog-card">
+<img src="https://img.shields.io/badge/Beginner-Minimal_Blog_Card-rgb(6%2C182%2C212)?logo=htmx"></a>
+
 </p>
 
 ---
