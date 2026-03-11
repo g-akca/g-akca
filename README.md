@@ -75,6 +75,9 @@
 <a href="https://github.com/g-akca/faq-accordion">
 <img src="https://img.shields.io/badge/Newbie-FAQ_Accordion-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/g-akca/results-summary-component">
+<img src="https://img.shields.io/badge/Newbie-Results_Summary_Component-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Junior</h4>
