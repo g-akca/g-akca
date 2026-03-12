@@ -104,6 +104,11 @@
 <a href="https://github.com/g-akca/news-homepage">
 <img src="https://img.shields.io/badge/Junior-News_Homepage-rgb(52%2C211%2C153)?logo=frontendmentor&logoColor=white"></a>
 
+<br>
+
+<a href="https://github.com/g-akca/product-list-with-cart">
+<img src="https://img.shields.io/badge/Junior-Product_List_with_Cart-rgb(52%2C211%2C153)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Intermediate</h4>
