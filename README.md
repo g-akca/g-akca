@@ -21,7 +21,7 @@
 
 <p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,bootstrap,vite"/>
 </p>
 
 <p align="center"><b>Backend</b></p>
