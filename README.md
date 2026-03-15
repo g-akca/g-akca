@@ -115,6 +115,9 @@
 <a href="https://github.com/g-akca/mortgage-repayment-calculator">
 <img src="https://img.shields.io/badge/Junior-Mortgage_Repayment_Calculator-rgb(52%2C211%2C153)?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/g-akca/loopstudios-landing-page">
+<img src="https://img.shields.io/badge/Junior-Loopstudios_Landing_Page-rgb(52%2C211%2C153)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Intermediate</h4>
