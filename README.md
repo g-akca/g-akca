@@ -127,6 +127,9 @@
 <a href="https://github.com/g-akca/password-generator-app">
 <img src="https://img.shields.io/badge/Intermediate-Password_Generator_App-rgb(251%2C191%2C36)?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/g-akca/frontend-quiz-app">
+<img src="https://img.shields.io/badge/Intermediate-Frontend_Quiz_App-rgb(251%2C191%2C36)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 ---
