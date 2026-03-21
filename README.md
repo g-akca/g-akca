@@ -81,6 +81,11 @@
 <a href="https://github.com/g-akca/nft-preview-card-component">
 <img src="https://img.shields.io/badge/Newbie-NFT_Preview_Card_Component-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
 
+<br>
+
+<a href="https://github.com/g-akca/profile-card-component">
+<img src="https://img.shields.io/badge/Newbie-Profile_Card_Component-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Junior</h4>
