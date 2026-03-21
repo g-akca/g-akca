@@ -138,6 +138,11 @@
 <a href="https://github.com/g-akca/ecommerce-product-page">
 <img src="https://img.shields.io/badge/Intermediate-E--commerce_Product_Page-rgb(251%2C191%2C36)?logo=frontendmentor&logoColor=white"></a>
 
+<br>
+
+<a href="https://github.com/g-akca/tic-tac-toe-game">
+<img src="https://img.shields.io/badge/Intermediate-Tic_Tac_Toe_Game-rgb(251%2C191%2C36)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 ---
