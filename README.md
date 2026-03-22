@@ -128,6 +128,9 @@
 <a href="https://github.com/g-akca/bmi-calculator">
 <img src="https://img.shields.io/badge/Junior-Body_Mass_Index_Calculator-rgb(52%2C211%2C153)?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/g-akca/data-storage-component">
+<img src="https://img.shields.io/badge/Junior-Fylo_Data_Storage_Component-rgb(52%2C211%2C153)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Intermediate</h4>
