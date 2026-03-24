@@ -156,6 +156,15 @@
 
 </p>
 
+<h4 align="center">Advanced</h4>
+
+<p align="center">
+
+<a href="https://github.com/g-akca/countries-app">
+<img src="https://img.shields.io/badge/Advanced-REST_Countries_API-rgb(249%2C115%2C22)?logo=frontendmentor&logoColor=white"></a>
+
+</p>
+
 ---
 
 <h3 align="center">The Odin Project</h3>
