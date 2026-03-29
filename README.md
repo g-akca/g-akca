@@ -157,6 +157,9 @@
 <a href="https://github.com/g-akca/room-homepage">
 <img src="https://img.shields.io/badge/Intermediate-Room_Homepage-rgb(251%2C191%2C36)?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/g-akca/bookmark-landing-page">
+<img src="https://img.shields.io/badge/Intermediate-Bookmark_Landing_Page-rgb(251%2C191%2C36)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Advanced</h4>
