@@ -89,6 +89,9 @@
 <a href="https://github.com/g-akca/stats-preview-card-component">
 <img src="https://img.shields.io/badge/Newbie-Stats_Preview_Card_Component-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/g-akca/order-summary-component">
+<img src="https://img.shields.io/badge/Newbie-Order_Summary_Component-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Junior</h4>
