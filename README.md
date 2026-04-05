@@ -92,6 +92,11 @@
 <a href="https://github.com/g-akca/order-summary-component">
 <img src="https://img.shields.io/badge/Newbie-Order_Summary_Component-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
 
+<br>
+
+<a href="https://github.com/g-akca/workit-landing-page">
+<img src="https://img.shields.io/badge/Newbie-Workit_Landing_Page-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Junior</h4>
