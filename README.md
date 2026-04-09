@@ -181,6 +181,9 @@
 <a href="https://github.com/g-akca/space-tourism-website">
 <img src="https://img.shields.io/badge/Intermediate-Space_Tourism_Website-rgb(251%2C191%2C36)?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/g-akca/galleria-slideshow-site">
+<img src="https://img.shields.io/badge/Intermediate-Galleria_Slideshow_Site-rgb(251%2C191%2C36)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Advanced</h4>
