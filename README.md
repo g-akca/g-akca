@@ -193,6 +193,9 @@
 <a href="https://github.com/g-akca/countries-app">
 <img src="https://img.shields.io/badge/Advanced-REST_Countries_API-rgb(249%2C115%2C22)?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/g-akca/pomodoro-app">
+<img src="https://img.shields.io/badge/Advanced-Pomodoro_Timer_App-rgb(249%2C115%2C22)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 ---
