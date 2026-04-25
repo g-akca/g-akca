@@ -97,6 +97,9 @@
 <a href="https://github.com/g-akca/workit-landing-page">
 <img src="https://img.shields.io/badge/Newbie-Workit_Landing_Page-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/g-akca/huddle-landing-page">
+<img src="https://img.shields.io/badge/Newbie-Huddle_Landing_Page-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Junior</h4>
