@@ -156,6 +156,9 @@
 <a href="https://github.com/g-akca/fylo-landing-page">
 <img src="https://img.shields.io/badge/Junior-Fylo_Dark_Theme_Landing_Page-rgb(52%2C211%2C153)?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/g-akca/project-tracking-component">
+<img src="https://img.shields.io/badge/Junior-Project_Tracking_Intro_Component-rgb(52%2C211%2C153)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Intermediate</h4>
