@@ -199,6 +199,11 @@
 <a href="https://github.com/g-akca/interactive-comments-section">
 <img src="https://img.shields.io/badge/Intermediate-Interactive_Comments_Section-rgb(251%2C191%2C36)?logo=frontendmentor&logoColor=white"></a>
 
+<br>
+
+<a href="https://github.com/g-akca/digital-bank-landing-page">
+<img src="https://img.shields.io/badge/Intermediate-Digital_Bank_Landing_Page-rgb(251%2C191%2C36)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Advanced</h4>
