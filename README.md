@@ -103,6 +103,11 @@
 <a href="https://github.com/g-akca/3-column-card-component">
 <img src="https://img.shields.io/badge/Newbie-3--Column_Preview_Card_Component-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
 
+<br>
+
+<a href="https://github.com/g-akca/ping-coming-soon-page">
+<img src="https://img.shields.io/badge/Newbie-Ping_Coming_Soon_Page-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Junior</h4>
