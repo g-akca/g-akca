@@ -167,6 +167,11 @@
 <a href="https://github.com/g-akca/project-tracking-component">
 <img src="https://img.shields.io/badge/Junior-Project_Tracking_Intro_Component-rgb(52%2C211%2C153)?logo=frontendmentor&logoColor=white"></a>
 
+<br>
+
+<a href="https://github.com/g-akca/age-calculator-app">
+<img src="https://img.shields.io/badge/Junior-Age_Calculator_App-rgb(52%2C211%2C153)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Intermediate</h4>
