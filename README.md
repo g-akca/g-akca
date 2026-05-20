@@ -172,6 +172,9 @@
 <a href="https://github.com/g-akca/age-calculator-app">
 <img src="https://img.shields.io/badge/Junior-Age_Calculator_App-rgb(52%2C211%2C153)?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/g-akca/github-user-search-app">
+<img src="https://img.shields.io/badge/Junior-GitHub_User_Search_App-rgb(52%2C211%2C153)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Intermediate</h4>
