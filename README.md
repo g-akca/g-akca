@@ -108,6 +108,9 @@
 <a href="https://github.com/g-akca/ping-coming-soon-page">
 <img src="https://img.shields.io/badge/Newbie-Ping_Coming_Soon_Page-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/g-akca/single-price-grid-component">
+<img src="https://img.shields.io/badge/Newbie-Single_Price_Grid_Component-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Junior</h4>
