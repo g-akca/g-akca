@@ -275,6 +275,11 @@
 <a href="https://github.com/g-akca/odin-mini-message-board">
 <img src="https://img.shields.io/badge/Mini_Message_Board-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
 
+<br>
+
+<a href="https://github.com/g-akca/odin-inventory-app">
+<img src="https://img.shields.io/badge/Inventory_App-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
+
 </p>
 
 ---
