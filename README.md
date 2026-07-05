@@ -280,6 +280,9 @@
 <a href="https://github.com/g-akca/odin-inventory-app">
 <img src="https://img.shields.io/badge/Inventory_App-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
 
+<a href="https://github.com/g-akca/odin-members-only">
+<img src="https://img.shields.io/badge/Members_Only_App-rgb(46%2C164%2C79)?logo=theodinproject&logoColor=white"></a>
+
 </p>
 
 ---
