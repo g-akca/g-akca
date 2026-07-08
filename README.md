@@ -5,9 +5,9 @@
   <img src="https://avatars.githubusercontent.com/u/169614034?s=400&u=a3e05ac524b163bc42468b0ee7d6914b9ed5f11f&v=4" alt="Kanade" width="210" height="210" align="right"/>
   <ul>
     <br><br>
-    <li>🎓 I'm a Computer Engineering student at Istanbul Technical University</li>
+    <li>🎓 I'm a Computer Engineering graduate from Istanbul Technical University</li>
     <li>💻 I focus on full-stack web development and continuously improve my skills</li>
-    <li>📚 I actively learn and practice on platforms like freeCodeCamp, Frontend Mentor, Coursera and more</li>
+    <li>📚 I actively learn and practice on platforms like Frontend Mentor, freeCodeCamp and more</li>
     <li>🍵 My hobbies include coding, analytics, archiving, watching anime, and playing games</li>
   </ul>
 </div>
