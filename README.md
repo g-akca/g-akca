@@ -114,6 +114,11 @@
 <a href="https://github.com/g-akca/apparel-coming-soon-page">
 <img src="https://img.shields.io/badge/Newbie-Base_Apparel_Coming_Soon_Page-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
 
+<br>
+
+<a href="https://github.com/g-akca/social-proof-section">
+<img src="https://img.shields.io/badge/Newbie-Social_Proof_Section-rgb(6%2C182%2C212)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Junior</h4>
