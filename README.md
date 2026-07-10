@@ -21,12 +21,12 @@
 
 <p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,bootstrap,vite"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js,bootstrap,materialui"/>
 </p>
 
 <p align="center"><b>Backend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,flask,mysql"/>
+  <img src="https://skillicons.dev/icons?i=py,flask,nodejs,express,cs,dotnet,mysql,postgres"/>
 </p>
 
 <h2 align="center">Projects</h2>
