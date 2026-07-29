@@ -228,6 +228,9 @@
 <a href="https://github.com/g-akca/digital-bank-landing-page">
 <img src="https://img.shields.io/badge/Intermediate-Digital_Bank_Landing_Page-rgb(251%2C191%2C36)?logo=frontendmentor&logoColor=white"></a>
 
+<a href="https://github.com/g-akca/todo-app">
+<img src="https://img.shields.io/badge/Intermediate-Full--Stack_Todo_App-rgb(251%2C191%2C36)?logo=frontendmentor&logoColor=white"></a>
+
 </p>
 
 <h4 align="center">Advanced</h4>
