@@ -254,6 +254,15 @@
 
 </p>
 
+<h4 align="center">Guru</h4>
+
+<p align="center">
+
+<a href="https://github.com/g-akca/designo">
+<img src="https://img.shields.io/badge/Guru-Designo-rgb(225%2C29%2C72)?logo=frontendmentor&logoColor=white"></a>
+
+</p>
+
 ---
 
 <h3 align="center">The Odin Project</h3>
