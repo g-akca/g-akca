@@ -16,12 +16,12 @@
 <h2 align="center">Tech Stack</h2>
 <p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,py,java,js,mysql"/>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,py,java,js,ts"/>
 </p>
 
 <p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js,bootstrap,materialui"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js,ts,bootstrap,materialui"/>
 </p>
 
 <p align="center"><b>Backend</b></p>
