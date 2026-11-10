@@ -31,8 +31,6 @@
 
 <h2 align="center">Projects</h2>
 
----
-
 <h3 align="center">Frontend Mentor</h3>
 
 <h4 align="center">Newbie</h4>
@@ -352,10 +350,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=g-akca&theme=tokyo-night&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=g-akca&style=flat-square&color=blue"/>
